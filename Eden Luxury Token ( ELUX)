@@ -1,0 +1,66 @@
+# 🌿 Eden Luxury Token (ELUX)
+
+**Eden Luxury Token (ELUX)** est un token BEP-20 déployé sur la **BSC (Binance Smart Chain)** pour soutenir des projets haut de gamme dans l’hôtellerie, le luxe responsable, l'immobilier de prestige et le développement durable.
+
+---
+
+## 📌 Informations principales
+
+| Élément | Détail |
+|--------|--------|
+| **Nom du token** | Eden Luxury Token |
+| **Symbole** | `ELUX` |
+| **Décimales** | 18 |
+| **Supply total** | 100,000,000 ELUX |
+| **Adresse du contrat** | `0x???` *(à mettre ici)* |
+| **Standard** | BEP-20 |
+| **Blockchain** | Binance Smart Chain (BSC) |
+| **Propriétaire (Owner)** | Adresse du déployeur |
+
+> 🔒 **Sécurité intégrée** : Taxe configurable (actuellement 0%), système de *whitelist / blacklist*, activation manuelle du trading, vesting linéaire, fonction de récupération en cas d'erreur (rescue).
+
+---
+
+## 🛡️ Fonctionnalités principales
+
+✔️ **Trading activé/désactivé manuellement** (seuls les whitelisted peuvent avant activation complète).  
+✔️ **Vesting lineaire** (verrouillage progressif des tokens).  
+✔️ **Paramètres de taxe ajustables** (taxPercent + taxWallet).  
+✔️ **Blacklist & Whitelist** pour sécuriser le lancement.  
+✔️ **Aucune taxe par défaut** (`taxPercent = 0`).  
+✔️ **Aucune fonctionnalité burn automatique** sauf configuration future.  
+
+---
+
+## 🔗 Liens utiles
+
+- 📜 **Smart Contract sur GitHub**  
+  `https://github.com/edenluxurytoken/Elux-Token`
+
+- 🔍 **BscScan (contrat)**  
+  `https://bscscan.com/address/0x???` *(remplace ??? par l'adresse du contrat)*
+
+- 🧪 Contrat vérifié : ✔️ Oui  
+- 📂 Licence : **MIT**
+
+---
+
+## 📈 Use Case & Vision
+
+ELUX est conçu pour :
+
+💎 *Financer et accompagner des projets innovants dans le secteur du luxe durable.*  
+🏨 *Développement de chaînes hôtelières haut de gamme (5 étoiles).*  
+🌍 *Eco-construction & tourisme vert.*  
+🎯 *Investissement stratégique & tokenisation d'actifs de prestige.*
+
+---
+
+## 🔮 Roadmap (résumé)
+
+```text
+✔ T1 2026 – Déploiement du contrat + configuration Whitelist
+🔄 T2 2026 – Mise en place du programme de Vesting
+🚀 T3 2026 – Lancement public du token (listing DEX)
+🏨 2027 – Développement du projet hôtelier pilote
+🌿 2028 – Expansion internationale & création de fonds d’investissement durable
